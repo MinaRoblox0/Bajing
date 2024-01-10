@@ -5,4 +5,4 @@ A opensource programming language made in Python using a syntax without semicolo
 
 To run your BAJING code, open a terminal where your interpreter is located, then type:
 
-python interpreter.py <scriptname>.ba
+python interpreter.py PUT_SCRIPT_NAME_HERE.ba
